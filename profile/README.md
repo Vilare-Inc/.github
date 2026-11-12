@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/wordmark-dark.svg">
-  <img src="./assets/wordmark.svg" alt="Vilare" width="220">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/vilare-wordmark-dark.svg">
+  <img src="./assets/vilare-wordmark.svg" alt="Vilare" width="220">
 </picture>
 
 ### Gestão simples para comunidades que cuidam de pessoas.
