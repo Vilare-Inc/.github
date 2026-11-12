@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/wordmark-dark.svg">
-  <img src="./assets/wordmark.svg" alt="Vilare" width="260">
+  <img src="./assets/wordmark.svg" alt="Vilare" width="220">
 </picture>
 
 ### Gestão simples para comunidades que cuidam de pessoas.
