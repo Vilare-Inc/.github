@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 72" width="300" height="72" fill="none" aria-label="Vilare">
+  <g stroke="#FBF9F5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 6 48 L 28 24 L 50 48"></path>
+    <path d="M 14 58 L 42 58"></path>
+    <path d="M 78 14 L 100 60 L 122 14"></path>
+    <path d="M 138 32 L 138 60"></path>
+    <circle cx="138" cy="18" r="3.6" fill="#FBF9F5" stroke="none"></circle>
+    <path d="M 154 10 L 154 60"></path>
+    <circle cx="184" cy="46" r="14"></circle>
+    <path d="M 198 33 L 198 60"></path>
+    <path d="M 216 32 L 216 60"></path>
+    <path d="M 216 32 A 8 8 0 0 0 232 32 L 232 36"></path>
+    <path d="M 269 46 A 13 13 0 1 0 265 55"></path>
+    <path d="M 243 46 L 269 46"></path>
+  </g>
+</svg>
